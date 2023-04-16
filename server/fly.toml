@@ -1,0 +1,4 @@
+# fly.toml file generated for talkvidly on 2023-04-16T09:31:55+05:30
+
+app = "talkvidly"
+primary_region = "maa"
